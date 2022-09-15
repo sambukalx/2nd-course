@@ -1,4 +1,4 @@
-import Gane;
+import Gane;//ex 2(queue)
 import javax.swing.*;
 import java.awt.*;
 
