@@ -1,5 +1,3 @@
-package ru.mirea.ikbo1218.grachev.ex2;
-
 import java.util.ArrayDeque;
 import java.util.Queue;
 
